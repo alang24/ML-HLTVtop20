@@ -1,2 +1,4 @@
 # ML-HLTVtop20
-i reverse-engineer hltvtop20 formula
+update:
+- 8/3: initial commit
+- 8/6: begin datascraping
