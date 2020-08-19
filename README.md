@@ -6,5 +6,6 @@ update:
 - 8/12: functions for most of the individual stats
 - 8/16: finished feature functions for feature extraction
 - 8/17: expanded number of features
+- 8/18: finished updated feature extraction
 
 TODO: finish the rest of the stats/validation
