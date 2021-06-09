@@ -8,4 +8,4 @@ update:
 - 8/17: expanded number of features
 - 8/18: finished updated feature extraction
 - 8/24: Finished section on Rating 2.0, began kNN models
-
+- 6/9: split feature extraction into different notebook
