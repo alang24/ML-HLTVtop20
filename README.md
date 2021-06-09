@@ -7,5 +7,5 @@ update:
 - 8/16: finished feature functions for feature extraction
 - 8/17: expanded number of features
 - 8/18: finished updated feature extraction
+- 8/24: Finished section on Rating 2.0, began kNN models
 
-TODO: finish the rest of the stats/validation
